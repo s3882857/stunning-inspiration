@@ -1,0 +1,16 @@
+.navigationBar {
+  text-align:center;
+  font-size: 20px;
+}
+
+.mainHeadings{
+  padding: 8px;
+  text-align: center;
+  color: LightSteelBlue;
+}
+
+.headings {
+  padding: 5px;
+  text-align: center;
+  color: LightSteelBlue;
+}
